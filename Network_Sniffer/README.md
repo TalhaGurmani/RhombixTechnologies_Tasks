@@ -19,7 +19,11 @@ A simple network sniffer built using Python and Scapy to capture and analyze net
    
    git clone https://github.com/TalhaGurmani/RhombixTechnologies_Tasks
 
-   sudo python3 Network_Sniffer.py
+   cd RhombixTechnologies_Tasks
+   
+   cd Network_Sniffer
+
+   python3 Network_Sniffer.py
    
 3. Install dependencies:
   
@@ -27,6 +31,7 @@ A simple network sniffer built using Python and Scapy to capture and analyze net
 
 
 ## Usage
+
 Run the script with root/admin privileges:
 
 sudo python Network_Sniffer.py
